@@ -5,19 +5,16 @@ This project author is [Paryshev](https://geektimes.com/users/ParyshevD/)
 
 The goal of that project is to create KiCAD schem.
 
-<<<<<<< HEAD
 Это проект программатора для советского компьютера Специалист построенного на процессоре [КР580ВМ80А](https://ru.wikipedia.org/wiki/%D0%9A%D0%A0580%D0%92%D0%9C80%D0%90) (клон i8080A)
 
 Автор это проекта [Paryshev](https://geektimes.com/users/ParyshevD/)
 
 Оригинальная статья https://geektimes.com/post/255332/
 
-=======
 Это проект советского компьютера Специалист построенного на процессоре [КР580ВМ80А](https://ru.wikipedia.org/wiki/%D0%9A%D0%A0580%D0%92%D0%9C80%D0%90) (клон i8080A)
 
 Автор это проекта [Paryshev](https://geektimes.com/users/ParyshevD/)
 
->>>>>>> 6810a32fcc22eaae0ce02caeb4a6631fc5f741c0
 Цель проект - создание схемы в KiCAD.
 
 ## Комментарий автора из оригинальной статьи
