@@ -1,3 +1,5 @@
+# Author: https://geektimes.com/users/ParyshevD/
+
 #include <SD.h>
 
 int nMode = 0; //0-ожидание команды, 1-чтение, 2-запись
