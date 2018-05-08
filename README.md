@@ -1,13 +1,13 @@
 # specialist-programmator
 This is programmer for old soviet computer Specialist based on microprocessor [KR580VM80A](https://en.wikipedia.org/wiki/KR580VM80A) (i8080A clone).
 
-This project author is [Paryshev](Dhttps://geektimes.com/users/ParyshevD/)
+This project author is [Paryshev](https://geektimes.com/users/ParyshevD/)
 
 The goal of that project is to create KiCAD schem.
 
 Это проект советского компьютера Специалист построенного на процессоре [КР580ВМ80А](https://ru.wikipedia.org/wiki/%D0%9A%D0%A0580%D0%92%D0%9C80%D0%90) (клон i8080A)
 
-Автор это проекта [Paryshev](Dhttps://geektimes.com/users/ParyshevD/)
+Автор это проекта [Paryshev](https://geektimes.com/users/ParyshevD/)
 
 Цель проект - создание схемы в KiCAD.
 
